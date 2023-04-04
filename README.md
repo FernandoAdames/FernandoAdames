@@ -2,7 +2,7 @@
 </div>
 
 
-I'm [Fernndo Adames](https://abhishknads.me/), a passionate full stack web developer. My passion for software lies with the the idea of creating beautiful fully functional web-applications that give a unique and satisfying experience to clients. I love working and collaborating with others developers to make creative code tackiling difficult algorithms and projects. I'm from New York City and my hobbies are going to events with friends.
+I'm [Fernndo Adames](https://abhishknads.me/), a passionate full stack web developer. My passion for software lies with the the idea of creating beautiful fully functional web-applications that give a unique and satisfying experience to clients. I love working and collaborating with others developers to make creative code tackiling difficult algorithms and projects. I'm from New York and my hobbies are going to events with friends.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />

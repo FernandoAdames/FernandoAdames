@@ -1,6 +1,4 @@
-### Hi there 👋
 
-My name is Fernando Adames I am from New York City. I am a full stack develelopr who loves the challenge of learning new languages. 
 
 ### hey there 
 <a href="https://www.instagram.com/abhisheknaiidu/">

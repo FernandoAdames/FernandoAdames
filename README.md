@@ -20,15 +20,11 @@ My name is Fernando Adames I am from New York City. I am a full stack develelopr
 
 <br />
 
-hi, i'm [Abhishek Naidu](https://abhishknads.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
+hi, i'm [Fernndo Adames](https://abhishknads.me/), a passionate self-taught full stack web developer and I am. my passion for software lies with the the idea of creating beautiful fully functional web-applications that give a unique and satisfying experience to clients.
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
-- 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
 

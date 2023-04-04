@@ -18,7 +18,7 @@
 
 <br />
 
-hi, i'm [Fernndo Adames](https://abhishknads.me/), a passionate self-taught full stack web developer and I am. my passion for software lies with the the idea of creating beautiful fully functional web-applications that give a unique and satisfying experience to clients.
+Hi, i'm [Fernndo Adames](https://abhishknads.me/), a passionate self-taught full stack web developer and I am. my passion for software lies with the the idea of creating beautiful fully functional web-applications that give a unique and satisfying experience to clients.
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
